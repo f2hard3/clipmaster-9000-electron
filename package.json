@@ -6,15 +6,13 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron-in-action/clipmaster-9000.git",
-  "author": "Steve Kinney <hello@stevekinney.net>",
   "license": "MIT",
   "keywords": [
     "electron",
     "clipboard"
   ],
   "dependencies": {
-    "electron": "1.8.2",
+    "electron": ">=5.0.0",
     "menubar": "5.2.3",
     "request": "2.83.0"
   },
