@@ -118,7 +118,6 @@ button:disabled {
 }
 
 button.remove-clipping {
-  display: none;
   float: right;
   color: white;
   background-color: rgb(208, 69, 55);
